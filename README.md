@@ -1,7 +1,7 @@
 # Video-Search
 Video Search React App
 
-Install dependencies
+To install dependencies :
 npm i
 
 To run tests :
