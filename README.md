@@ -1,11 +1,12 @@
 # Video-Search
 Video Search React App
 
-To install dependencies :
-npm i
+Clone application : git clone https://github.com/tub99/video-search-assignment.git
 
-To run tests :
-npm run test
+Go inside th application root: cd video-search-assignment/
 
-To start the application:
-npm start
+To install dependencies : npm i
+
+To run tests : npm run test
+
+To start the application: npm start
